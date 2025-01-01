@@ -3,10 +3,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="#" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="#" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="#" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="#" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://prismterminal.online/" title="Prism Website"><img width="22" src="images/prism.png"> Website</a></code>
+  <code><a href="https://x.com/prism_terminal" title="X Profile"><img width="22" src="images/X_icon.svg"> X</a></code>
+  <code><a href="https://t.me/prismterminal_bot" title="Telegram Channel"><img width="22" src="images/Telegram.svg"> Telegram</a></code>
 </h5>
 
 <br>
